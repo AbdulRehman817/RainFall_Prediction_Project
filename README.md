@@ -4,9 +4,6 @@ A Machine Learning web application that predicts whether rainfall is likely to o
 
 ## 🚀 Live Demo
 
-Add your deployed Streamlit app link here.
-
-Example:
 https://abdulrehman817-rainfall-prediction-project-app-opgiwm.streamlit.app
 
 ---
@@ -115,17 +112,6 @@ Install all dependencies using
 ```bash
 pip install -r requirements.txt
 ```
-
----
-
-## 📸 Screenshots
-
-Add screenshots of your application here.
-
-Example:
-
-- Home Page
-- Prediction Result
 
 ---
 
